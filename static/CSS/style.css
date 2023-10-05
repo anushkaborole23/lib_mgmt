@@ -1,12 +1,8 @@
-body{
-    background-color: aquamarine;
-}
 *{
-    
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Be Vietnam Pro', sans-serif;
 }
 
 #container{
@@ -38,7 +34,7 @@ body{
 .btn{
     font-weight: bold;
     color:white;
-    background-color: rgb(125, 125, 203);
+    background-color: black;
     border: 1px solid transparent;
     border-radius: 1rem;
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
